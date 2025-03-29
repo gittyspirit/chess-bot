@@ -59,7 +59,7 @@ import chess
 import re
 
 # 1. Replace 'YOUR_BOT_TOKEN' with your actual bot token.
-BOT_TOKEN = "8009346740:AAGU-qOS5lIn0NEhitDp4p59HuVfY7hoyh0"  #  <---  PUT YOUR BOT TOKEN HERE!
+BOT_TOKEN = ""  #  <---  PUT YOUR BOT TOKEN HERE!
 
 # 2. Enable logging (helps with debugging).  Good practice to include this.
 logging.basicConfig(
